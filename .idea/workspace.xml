@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a03ea830-0d22-4cd3-94c2-6d8b2612a0b3" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/images/flyer.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/reptoterraclub.com.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/reptoterraclub.com.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/flyer.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -28,7 +24,7 @@
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="362">
-              <caret line="60" column="83" lean-forward="true" selection-start-line="60" selection-start-column="83" selection-end-line="60" selection-end-column="83" />
+              <caret line="60" column="83" selection-start-line="60" selection-start-column="83" selection-end-line="60" selection-end-column="83" />
             </state>
           </provider>
         </entry>
@@ -46,7 +42,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/assets/css/main.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="470">
+            <state relative-caret-position="50445">
               <caret line="3363" column="19" selection-start-line="3363" selection-start-column="19" selection-end-line="3363" selection-end-column="19" />
             </state>
           </provider>
@@ -70,18 +66,17 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1936" />
-    <option name="height" value="1066" />
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="x" value="1680" />
+    <option name="y" value="-643" />
+    <option name="width" value="1920" />
+    <option name="height" value="1080" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -98,6 +93,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -145,22 +141,20 @@
       <updated>1485085720905</updated>
       <workItem from="1485085725394" duration="1532000" />
       <workItem from="1488707308587" duration="709000" />
-      <workItem from="1560424799847" duration="650000" />
+      <workItem from="1560424799847" duration="880000" />
+      <workItem from="1560700229015" duration="23000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2891000" />
+    <option name="totallyTimeSpent" value="3144000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
-    <editor active="true" />
+    <frame x="1680" y="-643" width="1920" height="1080" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18192919" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18370607" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" visible="true" weight="0.3294979" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -171,6 +165,8 @@
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Terminal" order="8" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="11" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -212,13 +208,11 @@
     <entry file="file://$PROJECT_DIR$/images/original_27-193x138.gif" />
     <entry file="file://$PROJECT_DIR$/images/P1030944-1024x768.jpg" />
     <entry file="file://$PROJECT_DIR$/images/P1040147-1024x768.jpg" />
-    <entry file="file://$PROJECT_DIR$/images/flyer.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/css/main.css">
+    <entry file="file://$PROJECT_DIR$/images/flyer.jpg" />
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="470">
-          <caret line="3363" column="19" selection-start-line="3363" selection-start-column="19" selection-end-line="3363" selection-end-column="19" />
+        <state relative-caret-position="362">
+          <caret line="60" column="83" selection-start-line="60" selection-start-column="83" selection-end-line="60" selection-end-column="83" />
         </state>
       </provider>
     </entry>
@@ -228,10 +222,10 @@
     <entry file="file://$PROJECT_DIR$/book.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/assets/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="362">
-          <caret line="60" column="83" lean-forward="true" selection-start-line="60" selection-start-column="83" selection-end-line="60" selection-end-column="83" />
+        <state relative-caret-position="50445">
+          <caret line="3363" column="19" selection-start-line="3363" selection-start-column="19" selection-end-line="3363" selection-end-column="19" />
         </state>
       </provider>
     </entry>
